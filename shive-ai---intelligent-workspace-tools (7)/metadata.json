@@ -1,0 +1,7 @@
+{
+  "name": "Shive AI - Intelligent Workspace Tools",
+  "description": "Your all-in-one AI workspace. Free tools for writing, PDF editing, image processing, and productivity. Built for professionals, students, and creators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
